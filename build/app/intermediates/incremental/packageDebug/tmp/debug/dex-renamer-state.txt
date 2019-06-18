@@ -1,0 +1,4 @@
+#Tue Jun 18 09:21:15 CDT 2019
+base.0=E\:\\CinE\\Users\\bryan\\GITHUB\\flutter_back\\unorgflutter\\final_exam\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
